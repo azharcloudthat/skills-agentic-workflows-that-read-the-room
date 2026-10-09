@@ -14,3 +14,9 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+
+## Recent updates worth watching
+
+- **Stacked pull requests are generally available.** Split large changes into smaller pull requests that are reviewed independently and merged together. Source: [GitHub Changelog](https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available)
+- **Local sandboxing for GitHub Copilot is generally available.** Copilot CLI, the Copilot app, and VS Code sessions using Agent Host can run Copilot-initiated commands with restricted filesystem, network, and credential access. Source: [GitHub Changelog](https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available)
+- **GitHub async merge API is generally available.** It is the recommended way to merge pull requests programmatically, and the only merge API that supports stacked pull requests. Source: [GitHub Changelog](https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available)
